@@ -3,7 +3,7 @@ Welcome to **RS-DatasetsHub**!
 This curated collection hosts essential datasets used within the remote sensing community. Each dataset featured here is accompanied by pertinent details, including the paper in which it was published, the year of publication, the number of classes, the total number of images, image sizes, and the specific tasks for which the datasets are well-suited.
 
 ## Datasets
-All the datasets reported in the following section are available [here](https://mega.nz/folder/SNlR3ayC#7EFZiVPhmmkKsrL4LtXmNQ). Each dataset directory is structured as follows: 
+All the datasets reported in the following section are available [here](https://mega.nz/folder/SNlR3ayC#7EFZiVPhmmkKsrL4LtXmNQ), in the form of zip files. Each dataset directory is structured as follows: 
 ```
 - dataset_folder:
   - dataset_images:
