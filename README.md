@@ -43,7 +43,7 @@ Any contribution to this work is welcome and very deeply appreciated.
 ## Citation 
 
 If you have have found and used a dataset in your work thanks to this repository, please consider citing
-```
+```BibTeX
 @online{rsDatasetsHub,
     author={Angelo Nazzaro}, 
     title = {RS-DatasetsHub},
